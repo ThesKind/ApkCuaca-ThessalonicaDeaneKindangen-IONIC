@@ -1,0 +1,7 @@
+{
+  "name": "Aplikasi Cuaca-ThesKind-IONIC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
